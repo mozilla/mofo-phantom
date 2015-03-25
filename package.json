@@ -1,0 +1,14 @@
+{
+  "name": "mofo-phantom",
+  "version": "1.0.0",
+  "description": "PhantomJS plus lightweight assertions and runner for functional testing.",
+  "main": "phantom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@gvn",
+  "license": "MPL",
+  "dependencies": {
+    "colors": "^1.0.3"
+  }
+}
