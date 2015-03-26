@@ -9,6 +9,10 @@
   "author": "@gvn",
   "license": "MPL",
   "dependencies": {
-    "colors": "^1.0.3"
+    "colors": "^1.0.3",
+    "phantomjs": "^1.9.16"
+  },
+  "bin": {
+    "phantomjs": "node_modules/.bin/phantomjs"
   }
 }
