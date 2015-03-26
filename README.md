@@ -77,4 +77,4 @@ To target elements for testing it's recommended that you give them a data attrib
 
 ### Example
 
-For an example of adding mofo-phantom and a test to a project you can refer to [this pull request](https://github.com/gvn/yolo/pull/1/files).
+For a complete example of adding `mofo-phantom` and a test to a project refer to [this pull request](https://github.com/gvn/yolo/pull/1/files).
