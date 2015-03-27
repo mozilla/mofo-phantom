@@ -23,7 +23,7 @@ module.exports = {
     }
 
     if (this.failed > 0) {
-      console.log(colors.bold.red(this.failed + ' tests this.failed.'));
+      console.log(colors.bold.red(this.failed + ' tests failed.'));
     }
 
     phantom.exit(this.failed > 0 ? 1 : 0);
